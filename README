@@ -1,0 +1,5 @@
+Crontrigger for Elgg 1.8
+
+Provides a poor man's cron trigger to trigger cron scripts based on site visits.
+
+Good for local development installation
